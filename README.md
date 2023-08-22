@@ -1,3 +1,5 @@
+Click [here](https://simple-scrimba-counter-app.netlify.app/) to interact with this project!
+
 # co87a43f1b249a7541cec1411
 
 Quick start:
