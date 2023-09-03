@@ -1,4 +1,4 @@
-This is a solo project created for the SCrimba course. Click [here](https://simple-scrimba-counter-app.netlify.app/) to interact with this project!
+This is a solo project created for the Scrimba course. Click [here](https://simple-scrimba-counter-app.netlify.app/) to interact with this project!
 
 # co87a43f1b249a7541cec1411
 
